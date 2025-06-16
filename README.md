@@ -60,7 +60,7 @@ To provide highly personalized **neighborhood/stay recommendations** for users b
 
 ### 📽️ Pitch Video
 
-[Watch here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch here](https://youtu.be/rn_rtNd4eqU?si=EvFDsB8Q-sz3tNlR)
 
 ---
 
