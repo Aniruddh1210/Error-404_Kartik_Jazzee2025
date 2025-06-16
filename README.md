@@ -22,15 +22,10 @@ To provide highly personalized **neighborhood/stay recommendations** for users b
 - 🏘️ **Neighborhood Recommendations** based on:
   - Food preference and dining habits
   - Proximity to gym, workplace, or key services
-  - Family or solo living arrangements
-  - Importance of transportation, safety, and noise level
 
 - 🛍️ **Grocery and Convenience Access**
   - Check real-time proximity of Blinkit or Instamart delivery areas
   - Recommend areas with 24/7 availability of essentials
-
-- 🧺 **Laundry Services**
-  - Locate trusted laundry or dry-cleaning providers nearby
 
 - 📆 **Stay Type Customization**
   - Short-term stay → Focus on comfort, accessibility, and convenience
