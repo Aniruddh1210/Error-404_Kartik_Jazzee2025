@@ -1,6 +1,17 @@
 # StayMatch Assistant
 StayMatch Assistant is a smart stay search assistant that recommends neighborhoods based on lifestyle needs like food, gym, laundry, and commute. Designed for people relocating to new cities, it personalizes results using past behavior or selected preferences.
 
+### 📽️ Pitch Video
+
+[Error-404_Kartik_Jazzee2025_PitchVideo](https://youtu.be/rn_rtNd4eqU?si=EvFDsB8Q-sz3tNlR)
+
+### 📄 Project Document
+
+Download the detailed document:  
+
+[`Error-404_Kartik_Jazzee2025_Document`](CityStay_Aniruddh_T$02025_Document.pdf)
+
+
 ### 🔍 Overview
 
 **StayMatch Assistant** is a smart assistant designed to help users relocating to a new city find the most suitable neighborhood or stay based on their **lifestyle preferences** and **historical behavior**. The system personalizes recommendations by considering parameters such as food habits, daily commute, grocery needs, and fitness preferences.
@@ -58,18 +69,6 @@ To provide highly personalized **neighborhood/stay recommendations** for users b
 
 ---
 
-### 📽️ Pitch Video
-
-[Watch here](https://youtu.be/rn_rtNd4eqU?si=EvFDsB8Q-sz3tNlR)
-
----
-
-### 📄 Project Document
-
-Download the detailed document:  
-📄 [`StayMatch Assistant_Kartik_T$02025_Document.pdf`](CityStay_Aniruddh_T$02025_Document.pdf)
-
----
 
 ### 👥 Team
 
