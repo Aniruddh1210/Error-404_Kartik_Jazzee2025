@@ -9,7 +9,7 @@ StayMatch Assistant is a smart stay search assistant that recommends neighborhoo
 
 Download the detailed document:  
 
-[`Error-404_Kartik_Jazzee2025_Document`](CityStay_Aniruddh_T$02025_Document.pdf)
+[`Error-404_Kartik_Jazzee2025_Document`](Error-404_Kartik_Jazzee2025_Document.pdf)
 
 
 ### 🔍 Overview
